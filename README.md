@@ -35,7 +35,7 @@ Write a lexer from scratch by designing and implementing your FSA that returns t
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
 
-## Team: Rilijin G Carrillo
+## Team: Rilijin G Carrillo, Francisco Godoy
 ## lexer.cpp
 This file contains the tokens and lexer class, along with some error exception handling. 
 

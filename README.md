@@ -39,8 +39,11 @@ Write a lexer from scratch by designing and implementing your FSA that returns t
 
 ## Instruction to run
 Follow the command on the terminal to run:
+
 clang++ lexer.cpp -o lexer
+
 clang++ shell.cpp -o shell
+
 ./shell
 
 ## lexer.cpp

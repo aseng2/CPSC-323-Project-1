@@ -36,10 +36,17 @@ Write a lexer from scratch by designing and implementing your FSA that returns t
 -------------------------------------------------------------------------------
 
 ## Team: Rilijin G Carrillo, Francisco Godoy, Anthony Seng
+
+## Instruction to run
+Follow the command on the terminal to run:
+clang++ lexer.cpp -o lexer
+clang++ shell.cpp -o shell
+./shell
+
 ## lexer.cpp
 This file contains the tokens and lexer class, along with some error exception handling. 
 
 ## shell.cpp
 This is the main file to run. 
 Make sure lexer.cpp, shell.cpp, “input_sourcecode.txt” are all in the same folder location otherwise the main file will run an error. 
-Running main on shell.cpp will create output.docx with a table of Tokens and corresponding Lexeme in list. May need to install imported modules in shell.cpp before running main.
+Running main on shell.cpp will create output.txt with a table of Tokens and corresponding Lexeme in list. May need to install imported modules in shell.cpp before running main.
